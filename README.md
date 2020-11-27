@@ -18,7 +18,7 @@ With RMI refer http://www.ejbtutorial.com/java-rmi/a-step-by-step-implementation
 
 **Reference**
 
-*Book*: Python Parallel Programming Cookbook Second Edition <br>
+*Book*: "Python Parallel Programming Cookbook Second Edition" <br>
 *Code (in book)*: https://github.com/PacktPublishing/Python-Parallel-Programming-Cookbook-Second-Edition <br>
 
 
