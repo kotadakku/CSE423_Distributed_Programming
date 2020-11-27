@@ -21,6 +21,6 @@ Code (in book): https://github.com/PacktPublishing/Python-Parallel-Programming-C
 
 Configuration
 - Python 3.8.6
-- Install packages Pyro4
+- Install packages Pyro4 \n
 With RMI, before you run the project, you can run the command "python -m Pyro4.naming"
 
