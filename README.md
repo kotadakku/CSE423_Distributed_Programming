@@ -24,7 +24,7 @@ With RMI refer http://www.ejbtutorial.com/java-rmi/a-step-by-step-implementation
 
 **Configuration**
 - Python 3.8.6
-- Install packages Pyro4
+- Install package Pyro4
 
 **Note**
 
