@@ -1,8 +1,8 @@
 # Java
  
-Reference
+**Reference**
 
-Book: "Concurrent and Distributed Computing in Java" \n
+Book: "Concurrent and Distributed Computing in Java" <br>
 Code (in book): http://users.ece.utexas.edu/~garg/dist/jbk/
 
 
@@ -14,9 +14,9 @@ With RMI refer http://www.ejbtutorial.com/java-rmi/a-step-by-step-implementation
 
 # Python
 
-Reference
-Book: Python Parallel Programming Cookbook Second Edition
-Code (in book): https://github.com/PacktPublishing/Python-Parallel-Programming-Cookbook-Second-Edition
+**Reference**
+Book: Python Parallel Programming Cookbook Second Edition <br>
+Code (in book): https://github.com/PacktPublishing/Python-Parallel-Programming-Cookbook-Second-Edition <br>
 
 
 Configuration
